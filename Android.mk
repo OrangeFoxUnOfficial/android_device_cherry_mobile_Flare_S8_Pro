@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),Flare_S8_Pro)
+ifeq ($(TARGET_DEVICE),S8_Pro)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif

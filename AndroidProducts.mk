@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Flare_S8_Pro.mk
+    $(LOCAL_DIR)/omni_S8_Pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Flare_S8_Pro-user \
-    omni_Flare_S8_Pro-userdebug \
-    omni_Flare_S8_Pro-eng
+    omni_S8_Pro-user \
+    omni_S8_Pro-userdebug \
+    omni_S8_Pro-eng
